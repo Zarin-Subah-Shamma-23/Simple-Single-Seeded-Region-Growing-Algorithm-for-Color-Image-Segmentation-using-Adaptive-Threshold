@@ -1,0 +1,1 @@
+# Simple-Single-Seeded-Region-Growing-Algorithm-for-Color-Image-Segmentation-using-Adaptive-Threshold
